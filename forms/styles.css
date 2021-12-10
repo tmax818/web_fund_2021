@@ -1,0 +1,12 @@
+pre[data-language] {
+  background: #121212 !important;
+  word-wrap: break-word !important;
+  padding: 16px 20px 17px !important;
+  color: #fff !important;
+  font-size: 14px;
+  line-height: 21px;
+  margin: 0 0 20px !important;
+  overflow: none !important;
+  white-space: pre-wrap !important;
+  border-radius: 6px;
+}
