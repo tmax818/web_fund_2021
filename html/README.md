@@ -1,14 +1,7 @@
-# web_fund_2021
-
-## How To Code
-
-- [Intro]()
-- [Setting up our editor]()
-
-## HTML
+# HTML
 
 - [how the web works]()
-- [intro to HTML](html/intro/index.html)
+- [intro to HTML](intro/index.html)
 - [text elements]()
 - [lists and tables](lists_tables/index.html)
 - [images and videos](image_video/index.html)
@@ -20,10 +13,3 @@
 - [registration form]()
 - [validate our html]()
 - [block vs. inline]()
-
-# CSS
-
-## JavaScript
-
-- [introduction]()
-- [variables, types, operators]()

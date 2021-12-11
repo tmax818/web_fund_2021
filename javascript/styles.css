@@ -1,0 +1,45 @@
+.st {
+  color: #e6db74;
+}
+
+.sourceCode {
+  background: #121212;
+  word-wrap: break-word;
+  display: inline-block;
+  color: #fff;
+  font-size: 14px;
+  line-height: 21px;
+  padding-right: 20px;
+  margin-right: 20px;
+  overflow: none;
+  white-space: pre-wrap;
+  border-radius: 6px;
+}
+
+.container {
+  display: flex;
+  justify-items: flex-start;
+}
+
+.output {
+  display: inline;
+  border: 1px solid black;
+  padding: 2em;
+}
+
+.code {
+  display: inline;
+}
+
+.kw {
+  color: #f92672;
+}
+
+.ot {
+  color: #a6e22e;
+}
+
+.at,
+.va {
+  color: #66d9ef;
+}
