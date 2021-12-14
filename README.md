@@ -21,7 +21,20 @@
 - [validate our html]()
 - [block vs. inline]()
 
-# CSS
+## CSS
+
+### Selectors
+- [setting up projects](css/proj_setup/index.html)
+- [selector basics](css/selector_basics/index.html)
+- [select the selector]()
+- [selectors advanced](css/selector_advanced/index.html)
+
+### Box Model
+- [css properties - color]()
+- [css properties - text]()
+- [styling](css/styling/index.html)
+
+
 
 ## JavaScript
 
