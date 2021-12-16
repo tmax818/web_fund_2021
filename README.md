@@ -8,8 +8,10 @@ title: 'Web Fundamentals 2021'
 
 ## How To Code
 
-- [Intro](html/how_to_code/index.html)
-- [Setting up our editor]()
+- [Intro](html/how_to_code/intro/index.html)
+- [Setting up our editor](html/how_to_code/setting_editor/index.html)
+- [files and folders](html/how_to_code/files_folders/index.html)
+- [git](html/how_to_code/git/index.html)
 
 ## HTML
 
@@ -32,13 +34,16 @@ title: 'Web Fundamentals 2021'
 ### Selectors
 - [setting up projects](css/proj_setup/index.html)
 - [selector basics](css/selector_basics/index.html)
-- [select the selector]()
+- [select the selector I](css/select_one/index.html)
 - [selectors advanced](css/selector_advanced/index.html)
+- [select the selector II](css/select_two/index.html)
+- [selector game](css/selector_game/index.html)
 
 ### Box Model
-- [css properties - color]()
-- [css properties - text]()
+- [css properties - color](css/color/index.html)
+- [css properties - text](css/text/index.html)
 - [styling](css/styling/index.html)
+- [sizes](css/sizes/index.html)
 
 
 

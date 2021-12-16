@@ -1,10 +1,7 @@
 
 ```css
+* {
+    outline: 1px solid red;
+}
 
-h1 {
-    color: red;
-}
-p {
-    text-align: center;
-}
 ```

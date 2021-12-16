@@ -1,6 +1,6 @@
 
 
-all:
+all: build
 	pandoc code.md -t html -o code.html
 
 build:

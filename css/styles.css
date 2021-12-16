@@ -1,8 +1,31 @@
+dl {
+  display: block;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+  margin-left: 0;
+  margin-right: 0;
+  padding: 2px;
+}
+
 .st {
   color: #e6db74;
 }
 
-.sourceCode {
+.sourceCode css {
+  background: #121212;
+  word-wrap: break-word;
+  display: inline-block;
+  color: #fff;
+  font-size: 14px;
+  line-height: 21px;
+  padding-right: 20px;
+  margin-right: 20px;
+  overflow: none;
+  white-space: pre-wrap;
+  border-radius: 6px;
+}
+
+.css {
   background: #121212;
   word-wrap: break-word;
   display: inline-block;

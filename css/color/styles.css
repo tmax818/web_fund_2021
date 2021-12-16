@@ -1,0 +1,46 @@
+.container {
+  display: flex;
+  margin: 20px 0;
+}
+
+.black {
+  flex: 1;
+  padding: 20px;
+  background-color: #000;
+  color: #fff;
+}
+
+.white {
+  flex: 1;
+  padding: 20px;
+  background-color: #fff;
+  color: #000;
+}
+
+.red {
+  flex: 1;
+  padding: 20px;
+  background-color: #f00;
+  color: #fff;
+}
+
+.green {
+  flex: 1;
+  padding: 20px;
+  background-color: #008000;
+  color: #fff;
+}
+
+.blue {
+  flex: 1;
+  padding: 20px;
+  background-color: #00f;
+  color: #fff;
+}
+
+.magenta {
+  flex: 1;
+  padding: 20px;
+  background-color: #f0f;
+  color: #fff;
+}
