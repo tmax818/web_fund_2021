@@ -4,4 +4,4 @@ all:
 	pandoc code.md -t html -o code.html
 
 build:
-	pandoc README.md -t html -o index.html
+	pandoc -f markdown -t html README.md -o index.html --self-contained --css=pandoc.css
