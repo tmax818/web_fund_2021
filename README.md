@@ -44,6 +44,7 @@ title: 'Web Fundamentals 2021'
 - [css properties - text](css/text/index.html)
 - [styling](css/styling/index.html)
 - [sizes](css/sizes/index.html)
+- [box model](css/box_model/index.html)
 
 
 

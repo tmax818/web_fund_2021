@@ -349,3 +349,19 @@ table td {
     page-break-after: avoid;
   }
 }
+
+.sourceCode {
+  background-color: black;
+}
+
+.css {
+  color: #a6e22e;
+}
+
+span.kw {
+  color: #66d9ef !important;
+}
+
+span.dt {
+  color: #f92672 !important;
+}
