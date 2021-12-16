@@ -8,7 +8,7 @@ title: 'Web Fundamentals 2021'
 
 ## How To Code
 
-- [Intro]()
+- [Intro](html/how_to_code/index.html)
 - [Setting up our editor]()
 
 ## HTML
@@ -16,12 +16,12 @@ title: 'Web Fundamentals 2021'
 - [how the web works]()
 - [intro to HTML](html/intro/index.html)
 - [text elements]()
-- [lists and tables](lists_tables/index.html)
-- [images and videos](image_video/index.html)
+- [lists and tables](html/lists_tables/index.html)
+- [images and videos](html/image_video/index.html)
 - [quiz]()
-- [dictionary entry](dict_entry/index.html)
+- [dictionary entry](html/dict_entry/index.html)
 - [fix indentation]()
-- [forms](forms/index.html)
+- [forms](html/forms/index.html)
 - [about divs]()
 - [registration form]()
 - [validate our html]()
